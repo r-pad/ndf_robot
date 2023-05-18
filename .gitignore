@@ -1,0 +1,7 @@
+**/__pycache__/**
+**/*.egg-info/**
+src/ndf_robot/assets/
+src/ndf_robot/eval_data/
+src/ndf_robot/data/
+src/ndf_robot/descriptions/
+src/ndf_robot/model_weights/
